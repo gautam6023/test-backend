@@ -1,0 +1,23 @@
+{
+  "name": "test-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gautam6023/test-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gautam6023/test-backend/issues"
+  },
+  "homepage": "https://github.com/gautam6023/test-backend#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
